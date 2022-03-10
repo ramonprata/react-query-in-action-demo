@@ -1,6 +1,6 @@
 # Getting Started with React Query
 
-- consuming Ricky & Morty API
+- **Consuming Ricky & Morty API**
 
 ![alt text](https://github.com/ramonprata/react-query-in-action-demo/blob/main/src/images/pic-one.PNG)
 
