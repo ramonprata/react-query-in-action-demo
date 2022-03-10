@@ -2,10 +2,10 @@
 
 - **Consuming Ricky & Morty API**
 
-  ![pic one](https://github.com/ramonprata/react-query-in-action-demo/blob/main/src/images/pic-one.PNG)
+  - ![pic one](https://github.com/ramonprata/react-query-in-action-demo/blob/main/src/images/pic-one.PNG)
 
 - **Pagination**
-  ![pic two](https://github.com/ramonprata/react-query-in-action-demo/blob/main/src/images/pic-two.PNG)
+  - ![pic two](https://github.com/ramonprata/react-query-in-action-demo/blob/main/src/images/pic-two.PNG)
 
 ### REFERENCES
 
