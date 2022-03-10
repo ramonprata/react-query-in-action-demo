@@ -1,10 +1,10 @@
 # Getting Started with React Query
 
-### Consuming Ricky & Morty API\*\*
+## Consuming Ricky & Morty API
 
 ![pic one](https://github.com/ramonprata/react-query-in-action-demo/blob/main/src/images/pic-one.PNG)
 
-### Cached Pagination
+## Cached Pagination
 
 ![pic two](https://github.com/ramonprata/react-query-in-action-demo/blob/main/src/images/pic-two.PNG)
 
